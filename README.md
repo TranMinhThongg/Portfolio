@@ -112,7 +112,7 @@ You can easily customize the website by editing:
 
 ## 📞 Contact
 
-- 📧 Email: iuh.thong1@gmail.com
+- 📧 Email: thongcaulong5@gmail.com
 - 📱 Phone: (+84) 833 376 460
 - 💼 LinkedIn: [thong-tran-5119a02a4](https://www.linkedin.com/in/thong-tran-5119a02a4/)
 - 🐙 GitHub: [TranMinhThongg](https://github.com/TranMinhThongg)
